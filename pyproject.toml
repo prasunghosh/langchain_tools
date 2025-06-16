@@ -49,3 +49,6 @@ dependencies = [
 dev = [
     "ipykernel>=6.29.5",
 ]
+
+[tool.poetry.dependencies]
+nbstripout = "^0.6.1"  # or latest version
